@@ -1,4 +1,4 @@
-## Adverts(ADS) analysis using RProgramming
+## Adverts(ADS) and consumer segmentation analysis using RProgramming
 
 ## by Wangechi Mungai
 
